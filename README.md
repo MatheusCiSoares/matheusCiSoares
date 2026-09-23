@@ -7,7 +7,7 @@
 ###
 
 <div data-importer="techs" align="center">
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <a href="https://www.c-language.org/"><img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  /></a>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -23,7 +23,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <a href="https://www.python.org"><img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  /></a>
 </div>
 
 ###
