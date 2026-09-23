@@ -1,11 +1,3 @@
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusCiSoares/MatheusCiSoares/pacman-output/puzzle-bobble-contribution-graph-dark.svg?game=puzzle-bobble">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusCiSoares/MatheusCiSoares/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/MatheusCiSoares/MatheusCiSoares/pacman-output/puzzle-bobble-contribution-graph.svg?game=puzzle-bobble">
-</picture>
-
-###
-
 <p data-importer="text" align="left">Sou formado em Tecnologia da Informação e Comunicação pela FAETERJ Petrópolis, desenvolvedor full stack com foco em projetos voltados ao entretenimento, criação de conteúdo e dispositivos IOT.<br><br>Estou constantemente buscando expandir meu conhecimento e experiência, desenvolvendo projetos originais, únicos e para diferentes sistemas.</p>
 
 ###
